@@ -1,4 +1,3 @@
 # SortingContractors
-Find and group contractors of COFCO Fulinmen Dpt
-
-Data source from hecom. 
+Find and group contractors of a mysterious company
+ 
